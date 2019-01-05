@@ -1,0 +1,7 @@
+D:\Tapia\Programs\Promedio\Promedio\bin\Debug\Promedio.exe.config
+D:\Tapia\Programs\Promedio\Promedio\bin\Debug\Promedio.exe
+D:\Tapia\Programs\Promedio\Promedio\bin\Debug\Promedio.pdb
+D:\Tapia\Programs\Promedio\Promedio\obj\Debug\Promedio.csprojAssemblyReference.cache
+D:\Tapia\Programs\Promedio\Promedio\obj\Debug\Promedio.csproj.CoreCompileInputs.cache
+D:\Tapia\Programs\Promedio\Promedio\obj\Debug\Promedio.exe
+D:\Tapia\Programs\Promedio\Promedio\obj\Debug\Promedio.pdb
